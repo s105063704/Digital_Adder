@@ -1,4 +1,4 @@
-module DBS();
+module DBS(good);
   input ;
   output ;
   output ;
