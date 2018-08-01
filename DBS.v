@@ -1,7 +1,9 @@
 module DBS();
-  input ;
-  output ;
-  output ;
+  input clk;
+  output reset;
+  output data;
   
+  
+ 
   
 endmodule
