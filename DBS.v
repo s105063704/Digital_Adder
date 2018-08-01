@@ -1,7 +1,7 @@
 module DBS();
   input clk;
   output reset;
-  output data;
+  output da;
   
   always@() begin
     
