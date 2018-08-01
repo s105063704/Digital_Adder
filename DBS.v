@@ -3,7 +3,9 @@ module DBS();
   output reset;
   output data;
   
-  
+  always@() begin
+    
+  end
  
   
 endmodule
