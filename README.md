@@ -9,7 +9,9 @@ There are so many digital adders, they are different from their performance(e.g.
 5. ...
 
 ## 0. Half Adder and Full Adder
-
+### Half Adder
+------
+![image](https://github.com/s105063704/Digital_Adder/blob/master/half_adder.png)
 
 ## 1. Ripple Carry Adder
 
