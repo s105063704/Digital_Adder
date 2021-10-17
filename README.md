@@ -1,11 +1,15 @@
 # Digital adders
 There are so many digital adders, they are different from their performance(e.g. speed, area, power consumption...). Here, I try to descript some of these digital adders.
 
+0. **Half Adder and Full Adder**
 1. **Ripple Carry Adder**
 2. **Carry Lookahead Adder**
 3. ...
 4. ...
 5. ...
+
+## 0. Half Adder and Full Adder
+
 
 ## 1. Ripple Carry Adder
 
